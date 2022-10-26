@@ -5,12 +5,13 @@ function App() {
   return (
     <div >
       <div class="title">
-      <h1>Cloud Lab #1 Assignment</h1>
+      <h1>Cloud Lab #2 Assignment</h1>
+      <h2>Google App Engine</h2>
       </div>
       <br></br>
       <div class="body">
-        <p>This is a cloud lab to review the basics and to gain some hands-on experience on Amazons EC2.</p>
-        <img src="https://codebriefly.com/wp-content/uploads/2022/03/how-to-setup-an-ec2-instance-on-AWS-750x430.jpg" width="700" height="400"/>
+        <p>This is a cloud lab to review the basics and to gain some hands-on experience on google cloud (google app engine).</p>
+        <img src="https://i.pcmag.com/imagery/reviews/02yVL9f8Jw1atwoG6sgFZDH-7..v1569482492.jpg" width="700" height="400"/>
       </div>
     </div>
   );
